@@ -1,6 +1,7 @@
 {
   "version": "1.1-external-test",
   "site": "howzat-v1",
-  "sourceSha": "a287c9a03994e66f05074c4d7c92bee9230e94d5",
-  "entry": "index.html"
+  "sourceSha": "76349f9cb2005ad03c4dcbe49a232aa90d859d4e",
+  "entry": "index.html",
+  "issue": 118
 }
